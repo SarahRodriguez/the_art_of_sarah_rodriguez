@@ -1,0 +1,109 @@
+/*--------
+Fonts
+----------*/
+
+p {
+	font-family: arial;
+}
+
+body {
+	background-color: #4FB5DC;
+	margin: 0%;
+
+}
+
+/*------
+| Core
+-------*/
+.pics {padding: 5%}
+#pics1 {float: center; padding: 0% 100%;}
+#pics2 {float: center; padding: 15% 290%;}
+#pics3 {float: left; padding: 0% 10%;}
+
+
+
+/*--------
+Header and Nav
+--------*/
+header {height: 300%; padding: 20%;}
+header .logo {
+	position: absolute;
+	left: 0%;
+	top: 0%;
+}
+nav {
+	position: absolute;
+	right: 0%;
+	left: 0%;
+	top: 30%;
+	text-align: center;
+	font-weight: none;
+
+	background-color: #3B5ADC;
+	outline: solid 5% #E9FAFF;
+}
+
+/* headers */
+
+h1 {
+	font-family: sanseriffic;
+}
+h2 {
+	font-family: verdana;
+}
+
+/* paragraphs */
+
+/*p {
+	font-size: 50%;
+}*/
+
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+.cf {
+    *zoom: 1;
+}
+
+#container {
+	width: 90%;/*
+	height: 950px;*/
+	margin: auto;
+	outline: solid 10% #F8E681;
+
+	position: relative;
+}
+
+
+/*------
+|footer
+-------*/
+
+footer {
+	text-align: center;
+	line-height: 80%;
+	/*background-color: #6D7660;
+	color: #000;*/
+	font-size: 12%;
+	margin-top: 5%;
+	bottom: 0%;
+	left: 0%;
+	right: 0%;
+	clear: both;
+}
+
+
+#container {margin-bottom: 15%}
+
+nav a:hover {color: #405DDC;}
+nav a.ChosenOne {color: #DCDA22;}
+
+#poop {
+	width: 90%;
+	margin: 10px;
+}

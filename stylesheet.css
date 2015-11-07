@@ -1,0 +1,52 @@
+/*--------
+Fonts
+----------*/
+
+p {
+	font-family: arial;
+}
+
+body {
+	background-color: #4FB5DC;
+	margin: 0%;
+
+}
+
+#container {
+	width: 900%;
+	margin: auto;
+	outline: solid 5% #C3DCC3;
+
+	position: relative;
+}
+.pics {padding: 5%}
+/*#pics1 {float: center; padding: 10% 100%}*/
+/*--------
+Header and Nav
+--------*/
+header .logo {
+	position: absolute;
+	left: 0%;
+	top: 0%;
+}
+
+/* headers */
+
+h1 {
+	font-family: sanseriffic;
+}
+h2 {
+	font-family: verdana;
+}
+
+/* paragraphs */
+
+/*p {
+	font-size: 50%;
+}*/
+
+#container
+
+nav a:hover {color: #405DDC;}
+nav a.ChosenOne {color: #DCDA22;}
+
